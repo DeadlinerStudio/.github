@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**Deadliner** is a partly open-sourced time management application. The project has 3 members now: mobile developer Aritx Zhou, PC developer XiaoChennnng & product manager qiao411.
+
 <!--
 
 **Here are some ideas to get you started:**
