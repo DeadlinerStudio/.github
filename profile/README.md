@@ -21,6 +21,7 @@ DeadlinerStudio is maintained by mobile developer [Aritx Zhou](https://github.co
 | --- | --- | --- | --- |
 | Android / 安卓 | [Deadliner](https://github.com/DeadlinerStudio/Deadliner) | Jetpack Compose | Open source · MIT<br>开源 · MIT |
 | iOS | [Deadliner-iOS](https://github.com/AritxOnly/Deadliner-iOS) | SwiftUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
+| macOS | [Deadliner-macOS](https://github.com/DeadlinerStudio/Deadliner-macOS) | SwiftUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
 | HarmonyOS / 鸿蒙 | [DeadlinerNEXT](https://github.com/AritxOnly/DeadlinerNEXT) | ArkTS / ArkUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
 | Desktop / 桌面端 | [Deadliner-Client](https://github.com/XiaoChennnng/Deadliner-Client) | Electron / React | Available<br>已可用 |
 | Cross-platform core / 跨平台核心 | DeadlinerCore | Kotlin Multiplatform | Open source · MIT<br>开源 · MIT |
