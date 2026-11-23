@@ -20,10 +20,10 @@ DeadlinerStudio is maintained by mobile developer [Aritx Zhou](https://github.co
 | Platform / component<br>平台 / 组件 | Project<br>项目 | Technology<br>技术栈 | License / availability<br>许可 / 状态 |
 | --- | --- | --- | --- |
 | Android / 安卓 | [Deadliner](https://github.com/DeadlinerStudio/Deadliner) | Jetpack Compose | Open source · MIT<br>开源 · MIT |
-| iOS | [Deadliner-iOS](https://github.com/AritxOnly/Deadliner-iOS) | SwiftUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
+| iOS | [Deadliner-iOS](https://github.com/DeadlinerStudio/Deadliner-iOS) | SwiftUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
+| HarmonyOS / 鸿蒙 | [DeadlinerNEXT](https://github.com/DeadlinerStudio/DeadlinerNEXT) | ArkTS / ArkUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
 | macOS | [Deadliner-macOS](https://github.com/DeadlinerStudio/Deadliner-macOS) | SwiftUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
-| HarmonyOS / 鸿蒙 | [DeadlinerNEXT](https://github.com/AritxOnly/DeadlinerNEXT) | ArkTS / ArkUI | Open source · LGPL-2.1<br>开源 · LGPL-2.1 |
-| Desktop / 桌面端 | [Deadliner-Client](https://github.com/XiaoChennnng/Deadliner-Client) | Electron / React | Available<br>已可用 |
+| Desktop / 桌面端 | [Deadliner-Client](https://github.com/DeadlinerStudio/Deadliner-Client) | Electron / React | Available<br>已可用 |
 | Cross-platform core / 跨平台核心 | DeadlinerCore | Kotlin Multiplatform | Open source · MIT<br>开源 · MIT |
 | AI framework / AI 框架 | Lifi | Kotlin | Closed source<br>闭源 |
 | Backend / 服务端 | Deadliner Server | Go | In development<br>开发中 |
